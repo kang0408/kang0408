@@ -9,7 +9,7 @@
 <ul>
   <li>
     I'm currently working on
-    <a href="https://github.com/hit-haui" target="_blank">HIT</a>
+    <a href="https://github.com/hit-haui" target="_blank"><b>HIT</b></a>
   </li>
   <li>I'm currently in third year at HAUI</li>
   <li>I'm learning <b>VueJS</b> and <b>NodeJS</b></li>
